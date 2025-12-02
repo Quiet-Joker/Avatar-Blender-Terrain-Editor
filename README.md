@@ -4,7 +4,7 @@ A simple heightmap importer/exporter for James Cameron's Avatar: The Game. Entir
 This tool allows the import of a terrain heightmap into blender and be able to edit the terain suing blender's texture paint tab and modify the height, then be able to export it back into the original format for use in-game.
 
 Use:
-Simply import the sdat files, edit then export. Make sure to make a backup!!
+Simply import the sdat files, edit then export. Make sure to make a backup!! Also for now you have to manually get the sector X and Y size manually by using the heightmap viewer. Most are 16x16 but some are 8x8.
 
 To do:
 1. Needs to be improved.
