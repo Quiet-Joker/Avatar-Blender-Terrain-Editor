@@ -1,4 +1,4 @@
-# avatar-blender-terrain-editor
+# Avatar-Blender-Terrain-Editor
 A simple heightmap importer/exporter for James Cameron's Avatar: The Game. Entirely made with AI code. I'm not a coder.
 
 This tool allows the import of a terrain heightmap into blender and be able to edit the terain suing blender's texture paint tab and modify the height, then be able to export it back into the original format for use in-game.
